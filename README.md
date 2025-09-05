@@ -1,4 +1,4 @@
-The Melbourne Community Event Finder application exists to help users find local events taking place in Melbourne. Users can find and view events through the application while also RSVPing and accessing complete event details. Users can find events through the app's robust search system which enables them to select events based on categories and locations and specific dates. Users can use the app's interactive map to find event locations and get directions to these places.
+The Melbourne Community Event Flinder application exists to help users find local events taking place in Melbourne. Users can find and view events through the application while also RSVPing and accessing complete event details. Users can find events through the app's robust search system which enables them to select events based on categories and locations and specific dates. Users can use the app's interactive map to find event locations and get directions to these places.
 
 ## Features
 Users can find events through the search function which allows them to search by name and category and location.
@@ -24,7 +24,7 @@ The application requires CocoaPods for external dependency management.
 ### Running the App on Your Local Machine Requires These Steps
 1. You can retrieve this repository through Git by using the following command:
    ```bash
-   git clone https://github.com/yourusername/MelbourneCommunityEventFinder.git
+   git clone https://github.com/yourusername/MelbourneCommunityEventFlinder.git
 API Key Setup
 The application requires Meetup API keys to retrieve event information.
 The following steps will help you obtain your API key:
